@@ -1,4 +1,4 @@
-### Hello everyone,
+# Hello everyone,
 
 ## Here you can find my personal workings and findings on R programming that will be useful for finance
 
