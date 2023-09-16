@@ -4,6 +4,8 @@ Here you can see my personal workings and findings on R programming that are use
 
 I am currently developing scripts for time series analysis, derivative pricing and portfolio sections 💹
 
+In the future I am planning to add my python scripts
+
 <!--
 **vladislavpyatnitskiy/vladislavpyatnitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
