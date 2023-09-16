@@ -1,6 +1,7 @@
 ### Hello everyone,
 
 Here you can see my personal workings and findings on R programming that are useful in finance 🏦
+
 I am currently developing scripts for time series analysis, derivative pricing and portfolio sections 💹
 
 <!--
