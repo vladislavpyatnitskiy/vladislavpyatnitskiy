@@ -1,7 +1,7 @@
 ### Hello everyone,
 
-Here you can see my personal workings and findings on R programming that are useful in finance 🏦
-My programming philosophy is to make precise and optimal script which is easy to apply ⚙️
+Here you can see my personal workings and findings on R programming that are useful in finance 🏦 \n
+My programming philosophy is to make precise and optimal script which is easy to apply ⚙️ \n
 I am currently developing scripts for time series analysis, derivative pricing and portfolio sections 💹
 
 <!--
