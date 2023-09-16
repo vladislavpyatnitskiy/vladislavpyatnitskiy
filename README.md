@@ -1,6 +1,6 @@
-# Hello everyone,
-
-## Here you can find my personal workings and findings on R programming that will be useful for finance
+### Hello everyone,
+### Here you can find my personal workings and findings on R programming that will be useful for finance 🏦
+### I am currently developing scripts for time series analysis and derivative pricing sections 💹
 
 <!--
 **vladislavpyatnitskiy/vladislavpyatnitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
