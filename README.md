@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello everyone,
+
+## Here you can find my personal workings and findings on R programming that will be useful for finance
 
 <!--
 **vladislavpyatnitskiy/vladislavpyatnitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
