@@ -6,6 +6,8 @@ I am currently developing scripts for time series analysis, derivative pricing a
 
 In the future I am planning to add my python scripts
 
+![](https://github.com/vladislavpyatnitskiy/vladislavpyatnitskiy/blob/main/Aging%20Graph.png?raw=true)
+
 <!--
 **vladislavpyatnitskiy/vladislavpyatnitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
