@@ -19,8 +19,6 @@
 
 Let's unravel the mysteries of finance through code! 📊💻✨
 
-![](https://github.com/vladislavpyatnitskiy/vladislavpyatnitskiy/blob/main/Aging%20Graph.png?raw=true)
-
 <!--
 **vladislavpyatnitskiy/vladislavpyatnitskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
